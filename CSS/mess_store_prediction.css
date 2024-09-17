@@ -61,7 +61,6 @@ body, html {
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 
-/* Project Details Section */
 .project-details h2, .technologies-used h2 {
     font-size: 2em;
     margin-bottom: 20px;
@@ -107,7 +106,9 @@ body, html {
     padding-left: 20px;
     margin: 0;
 }
-
+.features .container:hover{
+    view with git
+}
 .features li {
     margin-bottom: 10px;
     padding-left: 10px;
@@ -199,7 +200,7 @@ body, html {
     text-align: center;
     transition: transform 0.3s ease, box-shadow 0.3s ease;
     border: 1px solid #dee2e6;
-    width: 120px;
+    /* width: 120px; */
     box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
     -webkit-transition: transform 0.3s ease, box-shadow 0.3s ease;
     -moz-transition: transform 0.3s ease, box-shadow 0.3s ease;
